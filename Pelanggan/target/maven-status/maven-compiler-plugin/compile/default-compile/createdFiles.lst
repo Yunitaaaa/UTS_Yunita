@@ -1,0 +1,8 @@
+com\Yunita\Pelanggan\service\VO\ResponseTemplateVo.class
+com\Yunita\Pelanggan\Controller\PelangganController.class
+com\Yunita\Pelanggan\PelangganApplication.class
+com\Yunita\Pelanggan\service\VO\Anggota.class
+com\Yunita\Pelanggan\Repository\PelangganRepository.class
+com\Yunita\Pelanggan\dto\Pelanggan.class
+com\Yunita\Pelanggan\Entity\Pelanggan.class
+com\Yunita\Pelanggan\service\service\PelangganService.class
